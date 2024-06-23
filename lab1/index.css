@@ -17,6 +17,8 @@
 .header-image {
     width: 300px;
     margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 .header-img {
@@ -72,7 +74,7 @@
 }
 .main-content-price{
     width: 140px;
-    height: 100%;
+    height: 80%;
     background-color: white;
     border-radius: 25px;
     font-size: 20px;
@@ -81,15 +83,10 @@
 }
 .main-content-price-one{
     width: 80px;
-    height: 100%;
+    height: 80%;
     background-color: white;
     border-radius: 25px;
     font-size: 20px;
     text-align: center;
 
 }
-
-
-
-
-
