@@ -15,7 +15,6 @@
 }
 
 .header-image {
-    /* border: 1PX solid; */
     width: 300px;
     margin-top: 10px;
 }
@@ -28,7 +27,6 @@
 
 .header-text{
     width: 400px;
-    /* border: 1px solid; */
 }
 
 .main {
@@ -39,7 +37,6 @@
     margin-right: auto;
     margin-top: 30px;
     border-radius: 25px;
-    /* border: 1px solid #2d2d2d; */
     display: grid;
     grid-template-columns: auto auto auto auto;
     text-align: center;
@@ -65,10 +62,8 @@
 }
 
 .main-content-price-grid{
-     width: 240px;
+    width: 240px;
     height: 20%;
-    /* background-color: white; */
-
     border-radius: 30px;
     margin-left: 10%;
     display: grid;
@@ -80,7 +75,6 @@
     height: 100%;
     background-color: white;
     border-radius: 25px;
-    /* margin-left: 10%; */
     font-size: 20px;
     text-align: center;
 
@@ -90,7 +84,6 @@
     height: 100%;
     background-color: white;
     border-radius: 25px;
-    /* margin-left: 10%; */
     font-size: 20px;
     text-align: center;
 
