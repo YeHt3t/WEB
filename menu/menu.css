@@ -170,12 +170,29 @@
     width: 90%; 
     height: 180px; 
     background-color: #78A477;
-    padding: 20px; 
     border-radius: 30px;
-    overflow: hidden;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.footer-box-img {
+    width: 30%;
+    height: auto;
+    margin-right: 10px;
+
+}
+.footer-box-price{
+    width: 30%;
+    height: 20%;
+    margin-right: 10px;
+    background-color: #5C7E5B;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: 100%;
+    font-family:"Roboto Slab", serif; ;
+
 }
 
 
@@ -186,10 +203,8 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    /* padding-top: 1px;
-    padding-bottom: 7px;
-    padding-left: 15px; */
     border-radius: 30px;
     margin-bottom: 10px;
     overflow: hidden;
+    grid-template-rows: auto auto;
 }
